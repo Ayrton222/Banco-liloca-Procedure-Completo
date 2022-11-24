@@ -1,0 +1,83 @@
+.aniversariante{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 25%;
+}
+
+#aniversariante{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 26%;
+    width: 350px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.idade{
+    font-size: 20px;
+    position: absolute;
+    margin-top: 66px;
+    margin-left: 25%;
+}
+
+#idade{
+    position: absolute;
+    margin-top: 89px;
+    margin-left: 26%;
+    width: 350px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.endereco{
+    position: absolute;
+    margin-top: 126px;
+    font-size: 20px;
+    margin-left: 25%;
+}
+
+#end{
+    position: absolute;
+    margin-top: 154px;
+    margin-left: 26%;
+    width: 350px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.tema{
+    position: absolute;
+    margin-top: 188px;
+    font-size: 20px;
+    margin-left: 25%;
+}
+
+#tema{
+    position: absolute;
+    margin-top: 214px;
+    margin-left: 26%;
+    width: 350px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.cor{
+    position: absolute;
+    margin-top: 247px;
+    font-size: 20px;
+    margin-left: 25%;
+}
+
+#cor{
+    position: absolute;
+    margin-top: 272px;
+    margin-left: 26%;
+    width: 350px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
